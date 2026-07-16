@@ -1,5 +1,7 @@
 # Skynet Multi-Tenant Ops – Backend
 
+![Python](https://img.shields.io/badge/python-3.x-blue.svg)
+
 Production-oriented, multi-tenant aviation operations backend built with NestJS, Prisma, PostgreSQL, and Docker.
 
 This project extends a Level 1 system into an institutional-grade architecture with:
