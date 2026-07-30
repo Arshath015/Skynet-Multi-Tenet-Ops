@@ -275,7 +275,7 @@ AI Engineer | AI Full Stack Engineer
 
 
 ---
-**Last updated:** 2026-07-20
+**Last updated:** 2026-07-30
 
 
 ## Requirements
